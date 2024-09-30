@@ -1,2 +1,3 @@
 # zoom-clone
-Zoom clone code with node.js
+
+Zoom Clone using Node.JS, WebRTC and Websockets
